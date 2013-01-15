@@ -4,6 +4,7 @@
 <supertype>nt:unstructured</supertype>
 <supertype>nt:hierarchyNode</supertype>
 <supertype>exo:rss-enable</supertype>
+<supertype>exo:webContent</supertype>
 </supertypes>
 <propertyDefinitions>
 <propertyDefinition name="*" requiredType="undefined" autoCreated="false" mandatory="false" onParentVersion="COPY" protected="false" multiple="true" >
